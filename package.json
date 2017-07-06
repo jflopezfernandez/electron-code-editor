@@ -1,0 +1,8 @@
+{
+  "name": "electron-code-editor",
+  "version": "0.1.0",
+  "main": "main.js",
+  "dependencies": {
+    "electron": "^1.6.11"
+  }
+}
